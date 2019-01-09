@@ -1,0 +1,268 @@
+Uri: https://tgb.qq.com/
+File Name: C:\Users\Android\Desktop\33\tgb.qq.com\index.html
+Content Type: text/html
+
+Uri: https://tgb.qq.com/en/
+File Name: C:\Users\Android\Desktop\33\tgb.qq.com\en\index.html
+Content Type: text/html
+
+Uri: https://tgb.qq.com/image/bg-buddy.png
+File Name: C:\Users\Android\Desktop\33\tgb.qq.com\image\bg-buddy.png
+Content Type: image/png
+
+Uri: https://tgb.qq.com/font/TTTGB-Medium.css
+File Name: C:\Users\Android\Desktop\33\tgb.qq.com\font\TTTGB-Medium.css
+Content Type: text/css
+
+Uri: https://tgb.qq.com/css/style.css?_t=20190103
+File Name: C:\Users\Android\Desktop\33\tgb.qq.com\css\style.css
+Content Type: text/css
+
+Uri: https://groups.google.com/forum/
+File Name: C:\Users\Android\Desktop\33\tgb.qq.com\forum\index.html
+Content Type: text/html
+
+Uri: https://tgb.qq.com/en/changelog.html
+File Name: C:\Users\Android\Desktop\33\tgb.qq.com\en\changelog.html
+Content Type: text/html
+
+Uri: https://tgb.qq.com/en/games/aov.html
+File Name: C:\Users\Android\Desktop\33\tgb.qq.com\en\games\aov.html
+Content Type: text/html
+
+Uri: https://tgb.qq.com/en/games/pubg.html
+File Name: C:\Users\Android\Desktop\33\tgb.qq.com\en\games\pubg.html
+Content Type: text/html
+
+Uri: https://tgb.qq.com/en/games/hi3.html
+File Name: C:\Users\Android\Desktop\33\tgb.qq.com\en\games\hi3.html
+Content Type: text/html
+
+Uri: http://dldir1.qq.com/syzs/GameDownload_gamedownload_i18n_hw-by6_100505_1.0.7773.123.exe
+File Name: C:\Users\Android\Desktop\33\tgb.qq.com\syzs\GameDownload_gamedownload_i18n_hw-by6_100505_1.0.7773.123.bin
+Content Type: application/octet-stream
+
+Uri: https://tgb.qq.com/image/sy_logo.png
+File Name: C:\Users\Android\Desktop\33\tgb.qq.com\image\sy_logo.png
+Content Type: image/png
+
+Uri: https://tgb.qq.com/image/logo-aov.png?d=20190103
+File Name: C:\Users\Android\Desktop\33\tgb.qq.com\image\logo-aov.png
+Content Type: image/png
+
+Uri: https://tgb.qq.com/image/logo-pubg.png?d=20190103
+File Name: C:\Users\Android\Desktop\33\tgb.qq.com\image\logo-pubg.png
+Content Type: image/png
+
+Uri: https://tgb.qq.com/image/logo-hi3.png
+File Name: C:\Users\Android\Desktop\33\tgb.qq.com\image\logo-hi3.png
+Content Type: image/png
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-119461737-1
+File Name: C:\Users\Android\Desktop\33\tgb.qq.com\gtag\js.js
+Content Type: application/javascript
+
+Uri: https://pc1.gtimg.com/js/jquery-1.7.2.min.js
+File Name: C:\Users\Android\Desktop\33\tgb.qq.com\js\jquery-1.7.2.min.js
+Content Type: application/x-javascript
+
+Uri: https://tgb.qq.com/js/checkParam.js?_t=20190117
+File Name: C:\Users\Android\Desktop\33\tgb.qq.com\js\checkParam.js
+Content Type: application/javascript
+
+Uri: https://tgb.qq.com/font/TTTGB-Medium.eot
+File Name: C:\Users\Android\Desktop\33\tgb.qq.com\font\TTTGB-Medium.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://tgb.qq.com/font/TTTGB-Medium.eot?
+File Name: C:\Users\Android\Desktop\33\tgb.qq.com\font\TTTGB-Medium-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://tgb.qq.com/font/TTTGB-Medium.woff
+File Name: C:\Users\Android\Desktop\33\tgb.qq.com\font\TTTGB-Medium.woff
+Content Type: application/font-woff
+
+Uri: https://tgb.qq.com/font/TTTGB-Medium.ttf
+File Name: C:\Users\Android\Desktop\33\tgb.qq.com\font\TTTGB-Medium.bin
+Content Type: application/octet-stream
+
+Uri: https://tgb.qq.com/font/TTTGB-Medium.svg
+File Name: C:\Users\Android\Desktop\33\tgb.qq.com\font\TTTGB-Medium.svg
+Content Type: image/svg+xml
+
+Uri: https://guanjia.qq.com/assets/images/main/ic_block.png
+File Name: C:\Users\Android\Desktop\33\tgb.qq.com\assets\images\main\ic_block.png
+Content Type: image/png
+
+Uri: https://guanjia.qq.com/assets/images/main/arow1.png
+File Name: C:\Users\Android\Desktop\33\tgb.qq.com\assets\images\main\arow1.png
+Content Type: image/png
+
+Uri: https://pc1.gtimg.com/pcmgr/user/img/icon2.png
+File Name: C:\Users\Android\Desktop\33\tgb.qq.com\pcmgr\user\img\icon2.png
+Content Type: image/png
+
+Uri: https://pc1.gtimg.com/img/logo_v8_16.png
+File Name: C:\Users\Android\Desktop\33\tgb.qq.com\img\logo_v8_16.png
+Content Type: image/png
+
+Uri: https://pc1.gtimg.com/pcmgr/user/img/7/jb.png
+File Name: C:\Users\Android\Desktop\33\tgb.qq.com\pcmgr\user\img\7\jb.png
+Content Type: image/png
+
+Uri: https://tgb.qq.com/image/buddy-download.png
+File Name: C:\Users\Android\Desktop\33\tgb.qq.com\image\buddy-download.png
+Content Type: image/png
+
+Uri: https://tgb.qq.com/image/aov-download.png
+File Name: C:\Users\Android\Desktop\33\tgb.qq.com\image\aov-download.png
+Content Type: image/png
+
+Uri: https://tgb.qq.com/image/btn-download.png
+File Name: C:\Users\Android\Desktop\33\tgb.qq.com\image\btn-download.png
+Content Type: image/png
+
+Uri: https://tgb.qq.com/image/btn-download-hover.png
+File Name: C:\Users\Android\Desktop\33\tgb.qq.com\image\btn-download-hover.png
+Content Type: image/png
+
+Uri: https://tgb.qq.com/image/btn-download-active.png
+File Name: C:\Users\Android\Desktop\33\tgb.qq.com\image\btn-download-active.png
+Content Type: image/png
+
+Uri: https://s.pc.qq.com/guanjia/images/5d/24/5d247f07d9e2af23932643a4498d259c.png
+File Name: C:\Users\Android\Desktop\33\tgb.qq.com\guanjia\images\5d\24\5d247f07d9e2af23932643a4498d259c.png
+Content Type: image/png
+
+Uri: https://tgb.qq.com/image/activity-item.png
+File Name: C:\Users\Android\Desktop\33\tgb.qq.com\image\activity-item.png
+Content Type: image/png
+
+Uri: https://tgb.qq.com/image/activity-item-mask.png
+File Name: C:\Users\Android\Desktop\33\tgb.qq.com\image\activity-item-mask.png
+Content Type: image/png
+
+Uri: https://pc1.gtimg.com/act/title/css/mgrTitle.sec.css
+File Name: C:\Users\Android\Desktop\33\tgb.qq.com\act\title\css\mgrTitle.sec.css
+Content Type: text/css
+
+Uri: https://tgb.qq.com/css/style.css?_t=2015112611
+File Name: C:\Users\Android\Desktop\33\tgb.qq.com\css\style-1.css
+Content Type: text/css
+
+Uri: https://www.facebook.com/Tencent-Emulator-2172716942941977/
+File Name: C:\Users\Android\Desktop\33\tgb.qq.com\Tencent-Emulator-2172716942941977\index.html
+Content Type: text/html
+
+Uri: https://tajs.qq.com/stats?sId=35317644
+File Name: C:\Users\Android\Desktop\33\tgb.qq.com\stats
+Content Type: text/javascript
+
+Uri: https://tgb.qq.com/image/lb1.png
+File Name: C:\Users\Android\Desktop\33\tgb.qq.com\image\lb1.png
+Content Type: image/png
+
+Uri: https://tgb.qq.com/image/lb2.png
+File Name: C:\Users\Android\Desktop\33\tgb.qq.com\image\lb2.png
+Content Type: image/png
+
+Uri: https://tgb.qq.com/image/lb3.png
+File Name: C:\Users\Android\Desktop\33\tgb.qq.com\image\lb3.png
+Content Type: image/png
+
+Uri: https://tgb.qq.com/image/lb4.png
+File Name: C:\Users\Android\Desktop\33\tgb.qq.com\image\lb4.png
+Content Type: image/png
+
+Uri: https://s.pc.qq.com/gameassistant/data/website-data.js
+File Name: C:\Users\Android\Desktop\33\tgb.qq.com\gameassistant\data\website-data.js
+Content Type: application/x-javascript
+
+Uri: https://tgb.qq.com/js/changelog.js?_t=20190117
+File Name: C:\Users\Android\Desktop\33\tgb.qq.com\js\changelog.js
+Content Type: application/javascript
+
+Uri: https://tgb.qq.com/font/方正兰亭超细黑简体-embed.css
+File Name: C:\Users\Android\Desktop\33\tgb.qq.com\font\方正兰亭超细黑简体-embed.css
+Content Type: text/css
+
+Uri: https://tgb.qq.com/css/style.css?_t=20180428
+File Name: C:\Users\Android\Desktop\33\tgb.qq.com\css\style-2.css
+Content Type: text/css
+
+Uri: https://tgb.qq.com/video/aov.mp4
+File Name: C:\Users\Android\Desktop\33\tgb.qq.com\video\aov.mp4
+Content Type: video/mp4
+
+Uri: https://tgb.qq.com/image/aov-wording.png
+File Name: C:\Users\Android\Desktop\33\tgb.qq.com\image\aov-wording.png
+Content Type: image/png
+
+Uri: https://tgb.qq.com/image/icon-arrow-down.png
+File Name: C:\Users\Android\Desktop\33\tgb.qq.com\image\icon-arrow-down.png
+Content Type: image/png
+
+Uri: https://s.pc.qq.com/pc/images/0d/7b/0d7be8dfffbd06b84bd689e0ab6bd06d.png
+File Name: C:\Users\Android\Desktop\33\tgb.qq.com\pc\images\0d\7b\0d7be8dfffbd06b84bd689e0ab6bd06d.png
+Content Type: image/png
+
+Uri: https://s.pc.qq.com/act/sem/201711ak/image/mask-1163431632.png
+File Name: C:\Users\Android\Desktop\33\tgb.qq.com\act\sem\201711ak\image\mask-1163431632.png
+Content Type: image/png
+
+Uri: https://tgb.qq.com/font/TTTGB-Medium-embed.css
+File Name: C:\Users\Android\Desktop\33\tgb.qq.com\font\TTTGB-Medium-embed.css
+Content Type: text/css
+
+Uri: https://tgb.qq.com/css/style.css?_t=20181225
+File Name: C:\Users\Android\Desktop\33\tgb.qq.com\css\style-3.css
+Content Type: text/css
+
+Uri: http://dlied6.qq.com/invc/xfspeed/qqpcmgr/download/GameDownload_PUBG_MOBILE_100103_1.0.5727.123.exe
+File Name: C:\Users\Android\Desktop\33\tgb.qq.com\invc\xfspeed\qqpcmgr\download\GameDownload_PUBG_MOBILE_100103_1.0.5727.123.bin
+Content Type: application/octet-stream
+
+Uri: https://tgb.qq.com/video.mp4
+File Name: C:\Users\Android\Desktop\33\tgb.qq.com\video.mp4
+Content Type: video/mp4
+
+Uri: https://s.pc.qq.com/act/sem/201711ak/image/bg-back-36ef3e001c.png
+File Name: C:\Users\Android\Desktop\33\tgb.qq.com\act\sem\201711ak\image\bg-back-36ef3e001c.png
+Content Type: image/png
+
+Uri: https://tgb.qq.com/js/checkParam.js?_t=20190107
+File Name: C:\Users\Android\Desktop\33\tgb.qq.com\js\checkParam-1.js
+Content Type: application/javascript
+
+Uri: https://tgb.qq.com/image/hi3-bg.png
+File Name: C:\Users\Android\Desktop\33\tgb.qq.com\image\hi3-bg.png
+Content Type: image/png
+
+Uri: https://tgb.qq.com/image/btn-download2.png
+File Name: C:\Users\Android\Desktop\33\tgb.qq.com\image\btn-download2.png
+Content Type: image/png
+
+Uri: https://tgb.qq.com/image/hi3-mask.png
+File Name: C:\Users\Android\Desktop\33\tgb.qq.com\image\hi3-mask.png
+Content Type: image/png
+
+Uri: http://dldir1.qq.com/syzs/GameDownload_Honkai_Impact_3_hw_100503_1.0.7619.123.exe
+File Name: C:\Users\Android\Desktop\33\tgb.qq.com\syzs\GameDownload_Honkai_Impact_3_hw_100503_1.0.7619.123.bin
+Content Type: application/octet-stream
+
+Uri: https://tgb.qq.com/video/hi3.mp4
+File Name: C:\Users\Android\Desktop\33\tgb.qq.com\video\hi3.mp4
+Content Type: video/mp4
+
+Uri: https://tgb.qq.com/font/方正兰亭超细黑简体.eot
+File Name: C:\Users\Android\Desktop\33\tgb.qq.com\font\方正兰亭超细黑简体.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://tgb.qq.com/font/方正兰亭超细黑简体.eot?
+File Name: C:\Users\Android\Desktop\33\tgb.qq.com\font\方正兰亭超细黑简体-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://tgb.qq.com/font/方正兰亭超细黑简体.svg
+File Name: C:\Users\Android\Desktop\33\tgb.qq.com\font\方正兰亭超细黑简体.svg
+Content Type: image/svg+xml
+

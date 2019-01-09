@@ -1,0 +1,156 @@
+@charset "utf-8";
+*{margin:0;padding:0;}
+li{ list-style:none;}
+.mgr_bg{
+	background-image:url(http://pc1.gtimg.com/act/title/images/logo.png);
+	background-repeat:no-repeat;
+}
+.mgr{
+	min-width:1000px;
+	height:39px;
+	background-color:#ffffff;
+	left:0;
+	top:0 !important;
+	text-align:left;
+	font-size:12px;
+	z-index:8000;
+	font-family:微软雅黑;
+	position:absolute;
+	width:100%;
+	border-bottom:solid 1px #382631;
+}
+.mgr a{text-decoration:none;cursor:pointer;}
+#mgr_nav_logout,#mgr_nav_login{color:#388DDF;text-decoration:none;cursor:pointer;}
+.mgr a:hover{text-decoration:underline; color:#333;}
+.mgr .mgr_lnk li{background:url(http://pc1.gtimg.com/act/title/images/line.png) no-repeat;  height:39px;}
+.mgr .mgr_lnk a{color:#373737; font-size:14px; font-family:微软雅黑,Simsun;}
+.mgr_u{
+	width:1000px;
+	padding:0 5px;
+	margin:0 auto;
+	position:relative;
+	list-style:none;
+	z-index:100;
+}
+.mgr_u li{	
+	height:39px;	
+	line-height:39px;
+	float:left;	
+}
+.mgr_logo{
+	width:130px;
+}
+.mgr_logo a{width:130px;height:39px;display:block;}
+.mgr_lnk{
+	/*width:500px;*/
+	padding-left:40px;
+}
+li.mgr_w{	
+	white-space:nowrap;
+	word-break:keep-all;
+	overflow:hidden;
+	float:right;
+	color:#373737;
+}
+.mgr_p{
+	width:90px;
+}
+.safejb {
+	color: #373737;
+}
+.mgr_o{
+	width:29px;
+}
+.mgr_lnk a{margin:0 12px; display:inline;}
+
+#face {
+    border: 1px solid #CCCCCC;
+    float: left;
+    margin: 5px 10px 0 0;
+    padding: 1px;
+}
+
+#login_nickname_span {
+    color: #333333;
+}
+
+.nick {
+    color: #96919D;
+    float: left;
+    margin-right: 10px;
+}
+
+#TitleLogined .icon_on {
+    background: url("http://pc1.gtimg.com/img/logo_v8_16.png") no-repeat scroll 0 0 transparent;
+}
+#TitleLogined .icon_off {
+    background: url("http://pc1.gtimg.com/img/logo_v8_16.png") no-repeat scroll -16px 0 transparent;
+}
+#iconElm,#safeElm,#safejb{
+    background: url("http://pc1.gtimg.com/pcmgr/user/img/icon2.png") no-repeat scroll 0 0 transparent;
+    display: block;
+    float: left;
+    height: 17px;
+    margin: 11px 10px 0 0;
+    width: 16px;
+}
+#TitleLogined .safe_lv1 {
+    background-position: 0 -28px;
+}
+#TitleLogined .safe_lv2 {
+    background-position: 0 -57px;
+}
+#TitleLogined .safe_lv3 {
+    background-position: 0 -86px;
+}
+#TitleLogined .safe_lv4 {
+    background-position: 0 -115px;
+}
+#TitleLogined .safe_lv5 {
+    background-position: 0 -144px;
+}
+#TitleLogined .safe_lv6 {
+    background-position: 0 -173px;
+}
+#TitleLogined .safe_lv7 {
+    background-position: 0 -199px;
+}
+#TitleLogined .safe_lv8 {
+    background-position: 0 -225px;
+}
+#TitleLogined .safe_lv9 {
+    background-position: 0 -252px;
+}
+#TitleLogined .safe_lv10 {
+    background-position: 0 -279px;
+}
+
+#TitleLogined .safejb {
+    background: url("http://pc1.gtimg.com/pcmgr/user/img/7/jb.png") no-repeat scroll 0 1px transparent;
+    line-height: 18px;
+    padding-left: 20px;
+    width: 40px;
+}
+
+.mgr_adb {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border-bottom: 1px solid #EEEEEE;
+    /*display: none;*/
+    height: 185px;
+    left: 50%;
+    margin: 0 0 0 -488px;
+    overflow: hidden;
+    padding: 0 3px 3px;
+    position: absolute;
+    top: 0;
+    width: 1000px;
+}
+
+.mgr_adl { padding-left:10px; }
+
+#loginframe {display:none;height:379px;overflow:hidden;width:552px;}
+.hide{display:none;}
+
+.footer {font-size:12px; line-height:1.8em; color:#9E9E9E; text-align:center; padding:30px 0;}
+.footer a {color:#9E9E9E; text-decoration:none;}
+.footer a:hover {text-decoration:underline;}
